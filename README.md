@@ -1,4 +1,4 @@
-# UN-Happiness-Report-Analysis
+# United Nations-Happiness-Report-Analysis
 
 This project is designed on real dataset from United Nations report on Human level happiness being monitored in all the countries in the world on the basis of 6 socio-economic matrix i.e. FamilySupport, Economic Strength, Freedom to live, Corruption rate.
 
